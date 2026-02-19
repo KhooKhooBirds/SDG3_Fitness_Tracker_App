@@ -10,13 +10,15 @@ This project supports SDG 3: Good Health and Well-being.
 - Shanice Syokau Kituu - Project Member [Requirement Analysis, Building]
 - Aryan Reshad Azahar - Project Member [Building]
 
-## Project Description
-This project is a gamified fitness tracking application designed primarily for teenagers and young adults. As younger generations increasingly rely on digital devices and interactive platforms, traditional fitness applications may fail to sustain long-term engagement. Our solution leverages gamification principles to make exercise more appealing and rewarding.
+## Product Vision [To Be Changed]
+To motivate teenagers and young adults of this generation to adopt consistent exercise habits by integrating gamified reward systems and interactive challenges into everyday fitness activities.
+
+## Project Description [To Be Changed]
+This project is a gamified fitness tracking application primarily tailored for teenagers and young adults. As younger generations rely heavily on digital devices and interactive platforms nowadays, traditional fitness applications usually fail to sustain long-term engagement. Our solution implements gamification principles to make exercise more appealing and rewarding for the younger generation.
 
 The application combines standard fitness tracking features, such as heart rate monitoring (via fitness bands), calorie tracking, diet recommendations, and progress statistics, with a quest-based reward system. Users can complete structured challenges (e.g., jogging 2km, completing 50 push-ups) to earn in-app tokens. These tokens can later be exchanged for physical or digital rewards such as discount vouchers or achievement-based rewards.
 
-By integrating game mechanics into fitness routines, the application aims to increase motivation, consistency, and long-term adherence to healthy habits, supporting improved physical well-being among young users.  
-[To Be Changed]
+By integrating game mechanics into fitness routines, the application aims to increase motivation, consistency, and long-term adherence to healthy habits, supporting improved physical well-being among young users. 
 
 ## Project Status/SDLC Overview (Currently in development. [To Be Changed])
 
