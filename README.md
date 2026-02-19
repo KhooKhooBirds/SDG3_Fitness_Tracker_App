@@ -20,7 +20,7 @@ The application combines standard fitness tracking features, such as heart rate 
 
 By integrating game mechanics into fitness routines, the application aims to increase motivation, consistency, and long-term adherence to healthy habits, supporting improved physical well-being among young users. 
 
-## Project Status/SDLC Overview (Currently in development. [To Be Changed])
+## Project Status/SDLC Overview (In Progress. [To Be Changed])
 
 Requirements Gathering
 -Google forms has been made, awaiting survey distribution and data collection [To be changed]
