@@ -23,7 +23,7 @@ By integrating game mechanics into fitness routines, the application aims to inc
 ## Project Status/SDLC Overview (In Progress. [To Be Changed])
 
 Requirements Gathering
--Google forms has been made by Khoo, survey distributed by TEAM, awaiting survey results and interviews from Khoo (Data collection). [To be changed]
+- Google forms has been made by Khoo, survey distributed by TEAM, awaiting survey results and interviews from Khoo (Data collection). [To be changed]
 
 Requirements Analysis
 - Awaiting Requirements Gathering [To be changed]
