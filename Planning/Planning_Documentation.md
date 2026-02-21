@@ -30,6 +30,7 @@
 
 ## Sprint Structure
 Scrum Master: Khoo Jing Yao
+
 Each sprint follows:
 1. Sprint Planning
 2. Task Execution
