@@ -120,7 +120,7 @@ Jack is a university student who exercises irregularly due to academic responsib
 
 ---
 
-### 💪 Interview Respondent 2 — Tammy
+### 🎓 Interview Respondent 2 — Tammy
 
 Tammy is more **intrinsically motivated** to exercise and is less affected by mood compared to the majority of other respondents.
 
