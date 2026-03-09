@@ -4,15 +4,15 @@
 This project supports SDG 3: Good Health and Well-being.
 
 ## Team Members [Future tasks such as Report & PowerPoint to be added]
-- Khoo Jing Yao
+- **Khoo Jing Yao**
 Project Leader [ Requirement gathering, Final testing, GitHub & Trello Management(Planning & Updates) ]
-- Su Tingwei
+- **Su Tingwei**
 Project Member [Design & Prototyping, Building]
-- Deng Zhenqun
+- **Deng Zhenqun**
 Project Member [Design & Prototyping, Building]
-- Shanice Syokau Kituu
+- **Shanice Syokau Kituu**
 Project Member [Requirement Analysis, Building]
-- Aryan Reshad Azahar
+- **Aryan Reshad Azahar**
 Project Member [Nothing for now]
 
 ## Project Description [To Be Changed]
