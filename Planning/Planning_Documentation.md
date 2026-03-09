@@ -1,38 +1,41 @@
-## Weekly Work Plan
+## Work Plan
 
 ### Week 1 – Planning & Req Gathering
 - Form group and assign roles
-- Create survey
-- Analyze results
+- Create requirement gathering survey
+- Interview two individuals
+- Analyze survey and interview results
 - Define requirements
 - Set up GitHub and Trello
 
-### Week 2 – Design & Early Prototype
+### Week 2 – Design & Early Prototype Building
 - Create wireframes
 - Develop required diagrams
-- Create ERD (if needed)
+- Create Class Diagram
+- Create Use Case Diagram
 - Build early Figma prototype
-- Sprint review & retrospective
 
-### Week 3 – Building & Testing
-- Improve prototype
-- Implement features
+### Week 3 – Testing & Finalization
+- Write Test Cases
+- Create User Feedback Form
 - Conduct testing
-- Document bugs
-- Sprint review & retrospective
+- Improve prototype
+- Update Use Case Diagram and Class Diagram
 
-### Week 4 – Finalization & Presentation
-- Final prototype refinement
+### Week 4 – Report Creation
 - Prepare report
 - Prepare PowerPoint
 - Rehearse presentation
 - Final submission
 
-## Sprint Structure
-Scrum Master: Khoo Jing Yao
+### Requirement Gathering
+- Khoo Jing Yao (Make a survey form and interview two individuals for functional, non-functional requirements and user stories.)
 
-Each sprint follows:
-1. Sprint Planning
-2. Task Execution
-3. Sprint Review
-4. Sprint Retrospective
+### Requirement Analysis
+- Shanice Syokau Kituu (Analyze survey and interview results and determine functional, non-functional requirements and user requirements from user stories)
+
+### Sprint 1
+- Outline planning (Khoo Jing Yao): We plan to design and implement all Must Have features and certain Should Have features.
+- Design (Khoo Jing Yao & Su Tingwei): Responsible for creating Use Case Diagram, Class Diagram and Wireframe.
+- Prototype Building (Khoo Jing Yao & Su Tingwei & Deng Zhenqun & Shanice Syokau Kituu): Responsible for building initial prototype (Iteration 1) based on use case diagram, class diagram and wireframe.
+- Testing & User Feedback (Khoo Jing Yao): Responsible for writing test cases and collecting user feedback to improve prototype in iteration two.
