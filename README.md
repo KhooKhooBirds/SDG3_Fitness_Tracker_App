@@ -5,15 +5,15 @@ This project supports SDG 3: Good Health and Well-being.
 
 ## Team Members [Future tasks such as Report & PowerPoint to be added]
 - **Khoo Jing Yao**
-Project Leader [ Requirement gathering, Final testing, GitHub & Trello Management(Planning & Updates) ]
+(Project Leader [ Requirement gathering, Final testing, GitHub & Trello Management(Planning & Updates) ])
 - **Su Tingwei**
-Project Member [Design & Prototyping, Building]
+(Project Member [Design & Prototyping, Building])
 - **Deng Zhenqun**
-Project Member [Design & Prototyping, Building]
+(Project Member [Design & Prototyping, Building])
 - **Shanice Syokau Kituu**
-Project Member [Requirement Analysis, Building]
+(Project Member [Requirement Analysis, Building])
 - **Aryan Reshad Azahar**
-Project Member [Nothing for now]
+(Project Member [Nothing for now])
 
 ## Project Description [To Be Changed]
 This project is a gamified fitness tracking application primarily tailored for teenagers and young adults. As younger generations rely heavily on digital devices and interactive platforms nowadays, traditional fitness applications usually fail to sustain long-term engagement. Our solution implements gamification principles to make exercise more appealing and rewarding for the younger generation.
