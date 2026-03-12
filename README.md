@@ -30,13 +30,16 @@ By integrating game mechanics into fitness routines, the application aims to inc
 ## SDLC Overview
 
 Requirements Gathering
-- Google forms has been made by Khoo, survey distributed by TEAM, awaiting survey results and interviews from Khoo (Data collection). [To be changed]
+- Khoo Jing Yao, responsible for the requirements gathering phase has made a google survey form during the first week of the project, collecting over 30 responses in the span of 3 days and interviewing two fellow university students for user stories. 
 
 Requirements Analysis
-- Awaiting Requirements Gathering [To be changed]
+- Shanice Syokau Kituu, responsible for requirements analysis has created a detailed report on which functional requirements, non-functional requirements and user stories the application for the project should include and use. Shanice Syokau Kituu also made a similar analysis report on the User Feedback Form which was required to initiate Sprint 2 of the project. 
 
-Design & Prototyping
-
+Design
+- Su Tingwei, reponsible for the UML diagrams (Class diagram and Use Case diagram) made several iterations of the UML diagrams, although the final version was reiterated by Khoo Jing Yao, as the original diagrams had minor issues. In Sprint 2, Khoo Jing Yao was responsible for designing the improved Use Case Diagram and Deng Zhenqun was responsible for the improved Class diagram. Khoo Jing Yao and Deng Zhenqun was responsible for designing the wireframes for both Sprint 1 and Sprint 2 prototypes.
+  
 Building
+- Deng Zhenqun, Khoo Jing Yao, Su Tingwei and Shanice Syokau Kituu were involved in the building of the initial prototype and the improved prototype. Deng Zhenqun was responsible for sampling other websites and applications to create a prototype where users would find keen for the eye, managing a majority of the prototype creation. Khoo Jing Yao was responsible for distributing tasks and managing the consistency of the entire prototype. Su Tingwei and Shanice Syokau Kituu assisted in the creation of simple pages such as User Login Page, User Registration Page, Steps Tracking Page and Activity Page.
 
-Final Testing
+Testing
+- Khoo Jing Yao, responsible for the testing phase, written two versions of test cases for Sprint 1 initial prototype and Sprint 2 improved and final prototype, respectively. Khoo Jing Yao has also created a User Feedback Form, collecting requirements for improvement on the prototype required for Sprint 2.
