@@ -8,24 +8,25 @@
 - Define requirements
 - Set up GitHub and Trello
 
-### Week 2 – Design & Early Prototype Building
-- Create wireframes
-- Develop required diagrams
+### Week 2 – Design & Early Prototype Building (Sprint 1)
 - Create Class Diagram
 - Create Use Case Diagram
+- Create Wireframe
 - Build early Figma prototype
+- Create user feedback form
+- Distribute user feedback form
 
-### Week 3 – Testing & Finalization
+### Week 3 – Design & Prototype Improvement (Sprint 2)
 - Write Test Cases
-- Create User Feedback Form
-- Conduct testing
-- Improve prototype
-- Update Use Case Diagram and Class Diagram
+- Analyze user feedback form
+- Design Improved Use Case Diagram
+- Design Improved Class Diagram
+- Design Improved Wireframe
+- Build Final Prototype
 
 ### Week 4 – Report Creation
 - Prepare report
-- Prepare PowerPoint
-- Rehearse presentation
+- Self reflection
 - Final submission
 
 ### Requirement Gathering
@@ -34,3 +35,8 @@
 ### Requirement Analysis
 - Shanice Syokau Kituu (Analyze survey and interview results and determine functional, non-functional requirements and user requirements from user stories)
 
+### Design
+- Su Tingwei & Deng Zhenqun & Khoo Jing Yao (Create use case diagram, class diagram, wireframes based on requirement analysis for sprint 1 and user feedback analysis for sprint 2)
+
+### Testing and Feedback
+- Khoo Jing Yao (Make a user feedback form to validate functional and non-functional requirements and to improve initial prototype iteration. Write test cases to test functionality of application)
