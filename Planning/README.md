@@ -3,7 +3,8 @@
 This folder stores all documentation about the planning, requirement analysis, and project management for the **TRACKDEEZSTATS** app.
 
 ## 📌 Agile Tool Usage
-* **Trello Board Link:** [OUR TRELLO LINK HERE]
+Weekly Trello Progress
+* **[Trello_Screenshots/](./Trello_Screenshots/)**
 
 ## 📂 Folder Directory
 
